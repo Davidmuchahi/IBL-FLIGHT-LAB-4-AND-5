@@ -328,9 +328,7 @@ This lab successfully demonstrates:
 4. Push to branch (`git push origin feature/new-endpoint`)
 5. Create Pull Request
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
